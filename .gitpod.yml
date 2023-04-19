@@ -1,5 +1,5 @@
 tasks:
-  - name: AWS CLI
+  - name: AWS-CLI
     env:
       AWS_CLI_AUTO_PROMPT: on-partial
     init: |
